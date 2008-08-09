@@ -18,7 +18,7 @@ use Mac::Resources;
 @EXPORT_OK   = qw(read_alias make_alias);
 %EXPORT_TAGS = ( all => [ @EXPORT_OK ] );
 
-$VERSION = '0.10_01';
+$VERSION = '0.10_02';
 
 =head1 NAME
 

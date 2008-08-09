@@ -3,7 +3,7 @@ use ExtUtils::MakeMaker;
 
 require 5.008;
 
-die "This is a Mac OS X module!\n" unless $^O eq 'darwin';
+die "OS unsupported! This is a Mac OS X module!\n" unless $^O eq 'darwin';
 
 eval "use Test::Manifest 1.14";
 
