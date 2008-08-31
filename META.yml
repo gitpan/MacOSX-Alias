@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                MacOSX-Alias
-version:             0.10_02
+version:             0.11
 abstract:            Read or create aliases on Mac OS X
 license:             perl
 author:              
